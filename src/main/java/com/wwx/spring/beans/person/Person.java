@@ -1,4 +1,4 @@
-package beans;
+package com.wwx.spring.beans.person;
 
 public class Person {
 

@@ -1,4 +1,4 @@
-package factory;
+package com.wwx.spring.beans.factory;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -8,6 +8,7 @@ import java.util.Map;
  *
  *           实例工厂创建
  *
+ *           不能使用静态static
  *
  */
 public class InstanceCarFactory {

@@ -1,5 +1,6 @@
 package beans;
 
+import com.wwx.spring.beans.person.Person;
 import junit.framework.TestCase;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;

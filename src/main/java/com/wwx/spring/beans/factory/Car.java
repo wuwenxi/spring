@@ -1,4 +1,4 @@
-package factory;
+package com.wwx.spring.beans.factory;
 
 public class Car {
 

@@ -1,4 +1,4 @@
-package factory;
+package com.wwx.spring.beans.factory;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;

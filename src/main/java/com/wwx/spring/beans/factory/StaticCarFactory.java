@@ -1,4 +1,4 @@
-package factory;
+package com.wwx.spring.beans.factory;
 
 import java.util.HashMap;
 import java.util.Map;

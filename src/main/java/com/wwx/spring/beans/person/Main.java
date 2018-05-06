@@ -1,4 +1,4 @@
-package beans;
+package com.wwx.spring.beans.person;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
